@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Nathan! 👋
 
-<!--
-**Creeds1996/Creeds1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer currently working at InfoTrack. I have a deep passion for technology and programming.
 
-Here are some ideas to get you started:
+My journey began in game development, but I soon discovered my true calling in web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+While I have experience in frontend development, my expertise and enthusiasm lie in building robust and scalable backend systems.
+
+Beyond web development, I'm also passionate about emerging technologies, particularly artificial intelligence, and I enjoy exploring how AI can enhance modern applications.
+
+## Check Out
+[![My Website](https://img.shields.io/badge/my%20website-1b3850?style=for-the-badge)](https://nathwebdev.com/)
+
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,ts,py,react,docker,git,github)](https://skillicons.dev)
+
+## My Current Goals
+- 🔭 **I’m currently**: Focusing on enhancing my personal website
+- 🌱 **I’m always**: Eager to expand my skill set and refine my expertise to grow as a developer
