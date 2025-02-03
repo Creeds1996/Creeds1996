@@ -1,4 +1,4 @@
-## Hi there, I'm Nathan! 👋
+### Hi there, I'm Nathan! 👋 <div align='right'>![](https://komarev.com/ghpvc/?username=creeds1996&color=blue)</div>
 
 I'm a full-stack developer currently working at InfoTrack. I have a deep passion for technology and programming.
 
