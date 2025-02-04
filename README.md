@@ -15,5 +15,6 @@ Beyond web development, I'm also passionate about emerging technologies, particu
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,ts,py,react,docker,git,github)](https://skillicons.dev)
 
 ## My Current Goals
-- 🔭 **I’m currently**: Focusing on enhancing my personal website
-- 🌱 **I’m always**: Eager to expand my skill set and refine my expertise to grow as a developer
+- 🎯 **Focus**: Continue to dedicate myself to enhancing my portfolio website, refining both its design and functionality to showcase my evolving expertise.
+- 🔭 **Explore**: Continue exploring cutting-edge technologies, staying ahead of industry trends, and integrating innovative solutions into my projects.
+- 🌱 **Growth**: Continue committing to expanding my skill set, deepening my expertise, and pushing my boundaries to evolve as a developer.
