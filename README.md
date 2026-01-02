@@ -12,7 +12,7 @@ Beyond web development, I'm also passionate about emerging technologies, particu
 [![My Website](https://img.shields.io/badge/my%20website-1b3850?style=for-the-badge&logo=about.me)](https://nathwebdev.com/) [![My Twitter](https://img.shields.io/badge/twitter/x-1b3850?style=for-the-badge&logo=x)](https://x.com/NathWebDev)
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,ts,py,react,docker,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,ts,php,py,rust,react,docker,git,github)](https://skillicons.dev)
 
 ## My Current Goals
 - 🎯 **Focus**: Continue to dedicate myself to enhancing my portfolio website, refining both its design and functionality to showcase my evolving expertise.
